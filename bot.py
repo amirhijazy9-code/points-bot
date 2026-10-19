@@ -7,7 +7,7 @@ logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
 
-BOT_TOKEN = "8844470162:AAE897IXQZSEq5VYRVEjzV6m2ROcqrJD-Gw"
+BOT_TOKEN = "8844470162:AAHBLorhp8XffHkjr9YZtxy4VO_ZqnsljtM"
 
 COUNTRIES_DATA = {
     "🇺🇸 أمريكا": {
